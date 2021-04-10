@@ -95,3 +95,7 @@
     top: -23px;
     display: inline;
 }
+.next-page{
+    font-size: 30px;
+    border: 1px solid lightblue;
+}
